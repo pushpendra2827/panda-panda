@@ -1,0 +1,31 @@
+body{
+  background-color: #9fe6a0;
+}
+.heading1{
+  background-color: #99154e;
+  color: yellow;
+}
+.clickbutton1{
+  background-color: #fff600;
+  font-size: 20px;
+  color: #ff005c;
+  font-family: serif;
+}
+.AM{
+  background-color: #99154e;
+  color: #f5f7b2 ;
+  text-align: center;
+
+}
+.IMDB{
+  text-align: center;
+  background-color: #ff9a00;
+  font-family: monospace;
+  color: black;
+
+}
+.as{
+  background-color: #fbeeac;
+  color: #28527a;
+  text-align: center;
+}
